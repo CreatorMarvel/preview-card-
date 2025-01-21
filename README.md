@@ -22,7 +22,7 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot (Solution Screenshot 👇🏽)
 
 ![](./public/images/localhost_5173_.png)
 
